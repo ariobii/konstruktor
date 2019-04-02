@@ -1,0 +1,7 @@
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\bin\Debug\latConstructor.exe.config
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\bin\Debug\latConstructor.exe
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\bin\Debug\latConstructor.pdb
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\obj\Debug\latConstructor.csprojAssemblyReference.cache
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\obj\Debug\latConstructor.csproj.CoreCompileInputs.cache
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\obj\Debug\latConstructor.exe
+D:\18.11.2279\Pertemuan 4 5\latConstructor\latConstructor\obj\Debug\latConstructor.pdb
